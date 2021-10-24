@@ -1,4 +1,4 @@
-# PyBer-Analysis using Python | Pandas | Matplotlib
+# PyBer-Analysis using | Python - Pandas - Matplotlib
 
 ## Overview 
 #### Our client, Pyber, has hired us to analyze a plethora of data to showcase city types, numbers of drivers and riders, as well as percentages of total fares by all three variables. Pyber has requested this data to improve access to ride-sharing services and to improve affordability for all riders. I used Jupyter Notebook, Pandas and Matplotlib libraries to visualize a story to inform and engage PyBer executives.
